@@ -14,7 +14,7 @@ We want to implement a system that is able to automatically detect whether a web
 
 #### Step 1: Loading the dataset
 
-The dataset can be found in this project folder under the name `url_spam.csv`. You can load it into the code directly from the link (`https://raw.githubusercontent.com/4GeeksAcademy/NLP-project-tutorial/main/url_spam.csv`) or download it and add it by hand in your repository.
+The dataset can be found in this project folder under the name `url_spam.csv`.
 
 #### Step 2: Preprocess the links
 
